@@ -111,12 +111,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
 
-### Graph
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=caeserlondon&theme=xcode)](https://activity-graph.herokuapp.com/graph?username=caeserlondon&theme=xcode)
-
-</div>
-
 <!-- ## personal portfolio: -->
 
 <!-- <a href="https://caeseralani.com"><img class= "center" src="https://img.shields.io/badge/WebPage-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a> -->
