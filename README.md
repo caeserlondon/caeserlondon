@@ -41,18 +41,23 @@ Here are some ideas to get you started:
 
 <!-- **Portfolio**: [CaeserAL-ANI] -->
 
-**Github**: [CaeserLondon]
+<!-- **Github**: [CaeserLondon] -->
 
 **LinkedIn**: [CaeserIbrahim]
 
 **Code wars**: [codewars]
 
 [caeseral-ani]: https://caeseralani.com
-[caeserlondon]: https://github.com/caeserlondon
+
+<!-- [caeserlondon]: https://github.com/caeserlondon -->
+
 [caeseribrahim]: http://uk.linkedin.com/in/caeser-ibrahim-3bb4a322a/
 [codewars]: https://www.codewars.com/users/Caeser%20Ibrahim
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaeserlondon&countColor=orange)<br> <!-- <a href="https://caeseralani.com"><img class= "center" src="https://img.shields.io/badge/WebPage-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a> --><a href="https://www.linkedin.com/in/caeser-ibrahim-3bb4a322a/"><img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a><a href="https://www.codewars.com/users/Caeser%20Ibrahim"><img calss= "center" src="https://img.shields.io/badge/codewars-E4405F?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"> </a><a href="https://github.com/caeserlondon"><img calss= "center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaeserlondon&countColor=orange)
+<br><!-- <a href="https://caeseralani.com"><img class= "center" src="https://img.shields.io/badge/WebPage-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a> --><a href="https://www.linkedin.com/in/caeser-ibrahim-3bb4a322a/"><img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.codewars.com/users/Caeser%20Ibrahim"><img calss= "center" src="https://img.shields.io/badge/codewars-E4405F?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"></a>
+
+<!-- <a href="https://github.com/caeserlondon"><img calss= "center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> -->
 
 <!-- <div align="center"> -->
 
