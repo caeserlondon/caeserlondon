@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-absolutely-yellow) ![Status](https://img.shields.io/badge/Status-Working_on_personal_projects-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-May_2022-blue)
-
 ## Welcome to my GitHub profile.
+
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-absolutely-yellow) ![Status](https://img.shields.io/badge/Status-Working_on_personal_projects-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-May_2022-blue)
 
 <h1  style="color:#ffd700" >Caeser Al Ani</h1>
 
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 ### Graph
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=caeserlondon&theme=chartreuse-dark)](https://activity-graph.herokuapp.com/graph?username=caeserlondon&theme=dark)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=caeserlondon&theme=xcode)](https://activity-graph.herokuapp.com/graph?username=caeserlondon&theme=xcode)
 
 </div>
 
