@@ -65,6 +65,8 @@ Here are some ideas to get you started:
 
 <!-- <div align="center"> -->
 
+---
+
 </div>
 
 ## Technical Stack:
@@ -96,19 +98,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=plastic&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=plastic&logo=Adobe%20InDesign&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Gimp-gray?style=plastic&logo=Gimp&logoColor=white" />
 
 <!-- --------------------------  -->
-
-### Github Stats
-
-![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
-
-### Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeserlondon&layout=compact&theme=dark)](https://github.com/caeserlondon/github-readme-stats)
-
 <!-- <div align="center"> -->
 
-### Streak
-
+![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeserlondon&layout=compact&theme=dark)](https://github.com/caeserlondon/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
 
 <!-- ## personal portfolio: -->
