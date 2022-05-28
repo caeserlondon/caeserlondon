@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 
 <h1  style="color:#ffd700" >Caeser Al Ani</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Junior+Full+Stack+Software+Developer;with++A+focus+on+design+and+always+learning.)](https://git.io/typing-svg)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Junior+Full+Stack+Software+Developer;with+a+focus+on+design+and+always+learning.)](https://git.io/typing-svg)
+
+ </div>
+ 
 #### Languages
 
 **English** (full professional proficiency)
