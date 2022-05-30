@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 **Arabic** (native proficiency)
 
+**Nationality** (Proudly British :uk: )
+
 ### Contact me
 
 **Mobiles**: **078-6886-3113** or **075-626-77052**
