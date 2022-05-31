@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&rank=-c,-?&theme=onedark)](https://github.com/caeserlondon/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&rank=-c,-?&theme=algolia)](https://github.com/caeserlondon/github-profile-trophy)
 
 <!-- ## personal portfolio: -->
 
