@@ -101,11 +101,15 @@ Here are some ideas to get you started:
 
 <!-- --------------------------  -->
 
-## <!-- <div align="center"> -->
+##
 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeserlondon&layout=compact&theme=dark)](https://github.com/caeserlondon/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&rank=-c,-?&theme=onedark)](https://github.com/caeserlondon/github-profile-trophy)
 
 <!-- ## personal portfolio: -->
 
