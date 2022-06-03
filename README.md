@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 
 <!-- <a href="https://caeseralani.com"><img class= "center" src="https://img.shields.io/badge/WebPage-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a> -->
 
-<a href="https://www.linkedin.com/in/caeser-ibrahim-3bb4a322a/"><img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.codewars.com/users/Caeser%20Ibrahim"><img calss= "center" src="https://img.shields.io/badge/codewars-E4405F?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"></a>
+<a href="https://www.linkedin.com/in/caeser-ibrahim-3bb4a322a/"><img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+<a href="https://www.codewars.com/users/Caeser%20Ibrahim"><img calss= "center" src="https://img.shields.io/badge/codewars-E4405F?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"></a>
 
 ![Profile badge](https://www.codewars.com/users/Caeser%20Ibrahim/badges/micro)
 
