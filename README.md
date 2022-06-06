@@ -48,9 +48,6 @@ Here are some ideas to get you started:
 **Code wars**: [codewars]
 
 [caeseral-ani]: https://caeseralani.com
-
-<!-- [caeserlondon]: https://github.com/caeserlondon -->
-
 [caeseribrahim]: http://uk.linkedin.com/in/caeser-ibrahim-3bb4a322a/
 [codewars]: https://www.codewars.com/users/Caeser%20Ibrahim
 
