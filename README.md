@@ -62,8 +62,6 @@ Here are some ideas to get you started:
 
 ![Profile badge](https://www.codewars.com/users/Caeser%20Ibrahim/badges/micro)
 
-<!-- <a href="https://github.com/caeserlondon"><img calss= "center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> -->
-
 <!-- <div align="center"> -->
 
 </div>
