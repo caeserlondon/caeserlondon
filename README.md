@@ -102,7 +102,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeserlondon&layout=compact&theme=dark)](https://github.com/caeserlondon/github-readme-stats)
 ![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
-[![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&rank=-c,-?&theme=juicyfresh)](https://github.com/caeserlondon/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&no-frame=true&no-bg=true&rank=-C,-?&theme=juicyfresh&column=4)](https://github.com/caeserlondon/github-profile-trophy)
 
 <!-- ## personal portfolio: -->
 
