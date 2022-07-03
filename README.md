@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=DEDEDF" />
 <img src="https://img.shields.io/badge/-PostMan-000000?style=flat&logo=postman&logoColor=orange" />
 <img src="https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=FBC02D" />
-<img src="https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GraphQL&logoColor=FBC02D" />
+<img src="https://img.shields.io/badge/-GraphQL-000000?style=flat&logo=GraphQL&logoColor=DE33A6" />
 <img src="https://img.shields.io/badge/-vscode-000000?style=flat&logo=visual-studio-code&logoColor=2BA1F1" />
 
 <div align="center">
