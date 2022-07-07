@@ -17,56 +17,40 @@ Here are some ideas to get you started:
 
 <h1  style="color:#ffd700" >Caeser Al Ani</h1>
 
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Junior+Full+Stack+Software+Developer;with+a+focus+on+design+and+always+learning.)](https://git.io/typing-svg)
 
- </div>
- 
-#### Languages
+I am an ambitious and dedicated Full-Stack junior web developer and graphic designer with a bachelor’s degree in architectural engineering and interior design with a passion for designing, debugging and building dynamic interactive websites.
+I graduated from the Makers Academy, an immersive full-stack software development BootCamp, where I strengthened my coding knowledge. I’m friendly, confident and always working on improving my skills and learning new technologies.
 
-**English** (full professional proficiency)
+##### Languages
 
-**Russian** (full professional proficiency)
-
-**Arabic** (native proficiency)
-
+**English** (full professional proficiency) , **Russian** (full professional proficiency) ,**Arabic** (native proficiency)
 **Nationality** (Proudly British :uk: )
 
-### Contact me
+##### Contact me
 
-**Mobiles**: **078-6886-3113** or **075-626-77052**
-
-**Email**: caeserlondon@gmail.com
+**Mobiles**: **078-6886-3113** or **075-626-77052** / **Email**: caeserlondon@gmail.com
 
 <!-- **Portfolio**: [CaeserAL-ANI] -->
 
 <!-- **Github**: [CaeserLondon] -->
 
-**LinkedIn**: [CaeserIbrahim]
+<!-- **LinkedIn**: [CaeserIbrahim] -->
 
-**Code wars**: [codewars]
+<!-- **Code wars**: [codewars] -->
 
 [caeseral-ani]: https://caeseralani.com
 [caeseribrahim]: http://uk.linkedin.com/in/caeser-ibrahim-3bb4a322a/
 [codewars]: https://www.codewars.com/users/Caeser%20Ibrahim
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaeserlondon&countColor=orange)
-<br>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaeserlondon&countColor=orange) <a href="https://www.linkedin.com/in/caeser-ibrahim-3bb4a322a/"><img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.codewars.com/users/Caeser%20Ibrahim"><img calss= "center" src="https://img.shields.io/badge/codewars-E4405F?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"></a> ![Profile badge](https://www.codewars.com/users/Caeser%20Ibrahim/badges/micro)
 
 <!-- <a href="https://caeseralani.com"><img class= "center" src="https://img.shields.io/badge/WebPage-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a> -->
-
-<a href="https://www.linkedin.com/in/caeser-ibrahim-3bb4a322a/"><img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-<a href="https://www.codewars.com/users/Caeser%20Ibrahim"><img calss= "center" src="https://img.shields.io/badge/codewars-E4405F?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"></a>
-
-![Profile badge](https://www.codewars.com/users/Caeser%20Ibrahim/badges/micro)
-
 <!-- <div align="center"> -->
 
 </div>
 
-## Technical Stack:
+### Technical Stack:
 
 <div align="center">
 
@@ -97,13 +81,8 @@ Here are some ideas to get you started:
 
 <!-- --------------------------  -->
 
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeserlondon&layout=compact&theme=dark)](https://github.com/caeserlondon/github-readme-stats)
-![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&no-frame=true&no-bg=true&rank=-C,-?&theme=juicyfresh&column=4)](https://github.com/caeserlondon/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeserlondon&layout=compact&theme=dark)](https://github.com/caeserlondon/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&no-frame=true&no-bg=true&rank=-C,-?&theme=juicyfresh&column=4)](https://github.com/caeserlondon/github-profile-trophy)
+![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
 
 <!-- ## personal portfolio: -->
 
