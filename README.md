@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 I am an ambitious and dedicated Full-Stack junior web developer and graphic designer with a bachelor’s degree in architectural engineering and interior design with a passion for designing, debugging and building dynamic interactive websites.
 I graduated from the Makers Academy, an immersive full-stack software development BootCamp, where I strengthened my coding knowledge. I’m friendly, confident and always working on improving my skills and learning new technologies.
 
-##### Languages
+#### Languages
 
 **English** (full professional proficiency) , **Russian** (full professional proficiency) ,**Arabic** (native proficiency)
 **Nationality** (Proudly British :uk: )
 
-##### Contact me
+#### Contact me
 
 **Mobiles**: **078-6886-3113** or **075-626-77052** / **Email**: caeserlondon@gmail.com
 
