@@ -25,11 +25,13 @@ I graduated from the Makers Academy, an immersive full-stack software developmen
 #### Languages
 
 **English** (full professional proficiency) , **Russian** (full professional proficiency) ,**Arabic** (native proficiency)
+
 **Nationality** (Proudly British :uk: )
 
 #### Contact me
 
-**Mobiles**: **078-6886-3113** or **075-626-77052** / **Email**: caeserlondon@gmail.com
+**Mobiles**: **078-6886-3113** or **075-626-77052**
+**Email**: caeserlondon@gmail.com
 
 <!-- **Portfolio**: [CaeserAL-ANI] -->
 
