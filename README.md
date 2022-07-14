@@ -24,7 +24,7 @@ I graduated from the Makers Academy, an immersive full-stack software developmen
 
 #### Languages
 
-**English** (full professional proficiency) , **Russian** (full professional proficiency) ,**Arabic** (native proficiency)
+**English** (full professional proficiency) , **Russian** (full professional proficiency) , **Arabic** (native proficiency)
 
 **Nationality** / (Proudly British :uk: )
 
