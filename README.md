@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-absolutely-yellow) ![Status](https://img.shields.io/badge/Status-Working_on_personal_projects-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-July_2022-blue)
 
-<h1  style="color:#ffd700" >Caeser Al Ani</h1>
+<h1  style="color:#ffd700" >Caeser Ibrahim</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Junior+Full+Stack+Software+Developer;with+a+focus+on+design+and+always+learning.)](https://git.io/typing-svg)
 
