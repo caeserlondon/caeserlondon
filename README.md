@@ -1,16 +1,3 @@
-<!--
-**caeserlondon/caeserlondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Welcome to my GitHub profile.
 
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-absolutely-yellow) ![Status](https://img.shields.io/badge/Status-Working_on_personal_projects-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-July_2022-blue)
@@ -21,6 +8,19 @@ Here are some ideas to get you started:
 
 I am an ambitious and dedicated Full-Stack junior web developer and graphic designer with a bachelor’s degree in architectural engineering and interior design with a passion for designing, debugging and building dynamic interactive websites.
 I graduated from the Makers Academy, an immersive full-stack software development BootCamp, where I strengthened my coding knowledge. I’m friendly, confident and always working on improving my skills and learning new technologies.
+
+#### Education
+
+● Makers Academy / London UK / Software Development Bootcamp (September 2021 - Jan 2022)
+● Croydon College / London UK / ESOL and Functional Skills English (2004 - 2005)
+● University of Technology / Baghdad Iraq / Bachelor in Architectural Engineering (BSc) (September 1993 - June 1998)
+
+#### Work history
+
+● Carfoosh Restaurant / Dubai UAE | Assistant Manager (2016 - 2020)
+● Freelance / London UK | Property manager (2012-2016)
+● Magnolia Enterprise Limited / London UK | Owner and Designer (2008- 2012)
+● University of Technology / Baghdad Iraq | Teaching assistant (1999 - 2003)
 
 #### Languages
 
@@ -34,24 +34,7 @@ I graduated from the Makers Academy, an immersive full-stack software developmen
 
 **Email**: caeserlondon@gmail.com
 
-<!-- **Portfolio**: [CaeserAL-ANI] -->
-
-<!-- **Github**: [CaeserLondon] -->
-
-<!-- **LinkedIn**: [CaeserIbrahim] -->
-
-<!-- **Code wars**: [codewars] -->
-
-[caeseral-ani]: https://caeseralani.com
-[caeseribrahim]: http://uk.linkedin.com/in/caeser-ibrahim-3bb4a322a/
-[codewars]: https://www.codewars.com/users/Caeser%20Ibrahim
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaeserlondon&countColor=orange) <a href="https://www.linkedin.com/in/caeser-ibrahim-3bb4a322a/"><img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.codewars.com/users/Caeser%20Ibrahim"><img calss= "center" src="https://img.shields.io/badge/codewars-E4405F?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"></a> ![Profile badge](https://www.codewars.com/users/Caeser%20Ibrahim/badges/micro)
-
-<!-- <a href="https://caeseralani.com"><img class= "center" src="https://img.shields.io/badge/WebPage-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a> -->
-<!-- <div align="center"> -->
-
-</div>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaeserlondon&countColor=orange) <a href="https://www.linkedin.com/in/caeser-ibrahim-3bb4a322a/"> <img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://caeser-ibrahim.vercel.app"> <img class= "center" src="https://img.shields.io/badge/Personal Portfolio-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a> <a href="https://caeser-ibrahim.netlify.app"> <img class= "center" src="https://img.shields.io/badge/On Line CV-ffd700?style=for-the-badge&logo=rss&logoColor=black" alt="Website"> </a> <a href="https://www.codewars.com/users/Caeser%20Ibrahim"> <img calss= "center" src="https://img.shields.io/badge/codewars-E4405F?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"></a> ![Profile badge](https://www.codewars.com/users/Caeser%20Ibrahim/badges/micro)
 
 ### Technical Stack:
 
@@ -82,13 +65,128 @@ I graduated from the Makers Academy, an immersive full-stack software developmen
 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=plastic&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=plastic&logo=Adobe%20InDesign&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Gimp-gray?style=plastic&logo=Gimp&logoColor=white" />
 
-<!-- --------------------------  -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeserlondon&layout=compact&theme=dark)](https://github.com/caeserlondon/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&no-frame=true&no-bg=true&rank=-C,-?&theme=juicyfresh&column=4)](https://github.com/caeserlondon/github-profile-trophy)
 ![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
 
-<!-- ## personal portfolio: -->
-
-<!-- <a href="https://caeseralani.com"><img class= "center" src="https://img.shields.io/badge/WebPage-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a> -->
+<hr>
+<h1 align="center">My Projects</h1> 
+ <h4>Please leave a star, and feel free to fork or clone.</h4>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Yum Yum</h3>
+        <br />
+        <a target="_blank" href="https://yum-yum-caeserlondon.vercel.app">
+            <img src="assets/yum-yum.jpg" width="100%" alt="yum-yum"/>
+        </a>
+        <br />
+        <p>Fully Responsive Recipe Website using Spoonacular API, With Multiple Themes, Made using React 18, React-router, Reacts hooks, React Icons and SASS.</p>
+      <p align="center">
+          
+  <a href="https://github.com/caeserlondon/Yum-Yum" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Git Hub Code&color=FFD601&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://yum-yum-caeserlondon.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+   <td width="50%" valign="top">
+      <h3 align="center">London Home Finder</h3>
+        <br />
+        <a target="_blank" href="https://london-home-finder.web.app">
+            <img src="/assets/london-home-finder.jpg" width="100%" alt="london-home-finder"/>
+        </a>
+        <br />
+        <p>For listings properties for rent and sale.Created using React V18.2.0 , react-router-dom V6.3.0 , react-leaflet for maps , Firebase(Backend-as-a-Service (Baas)) and react-toastify.</p>
+      <p align="center">
+          
+  <a href="https://github.com/caeserlondon/london-home-finder" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Git Hub Code&color=FFD601&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://london-home-finder.web.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
+  
+  <tr>
+ <td width="50%" valign="top">
+      <h3 align="center">Vet Clinic</h3>
+        <br />
+        <a target="_blank" href="https://caeser-vet-clinic.vercel.app">
+            <img src="/assets/vet-clinic.jpg" width="100%" alt="Vet-clinic"/>
+        </a>
+        <br />
+        <p>Building a Vet clinic web site with Next V12.2 and React V18.2
+Using stock photos and videos from www.pexels.com</p>
+      <p align="center">
+          
+  <a href="https://github.com/caeserlondon/vet-clinic" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Git Hub Code&color=FFD601&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://caeser-vet-clinic.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+   <td width="50%" valign="top">
+      <h3 align="center">GitHub Finder</h3>
+        <br />
+        <a target="_blank" href="https://github-user-finder-caeser.vercel.app">
+            <img src="/assets/github-finder.jpg" width="100%" alt="Github-finder"/>
+        </a>
+        <br />
+        <p>Search and find Github users and view their profile, created with React V18.1 react-router V6.3, react-icons, TailWind and Daisy UI.</p>
+      <p align="center">
+          
+  <a href="https://github.com/caeserlondon/github-user-finder" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Git Hub Code&color=FFD601&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://github-user-finder-caeser.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+ <td width="50%" valign="top">
+      <h3 align="center">Car Dealership</h3>
+        <br />
+        <a target="_blank" href="https://caesers-classic-cars.netlify.app">
+            <img src="/assets/car-dealership.jpg" width="100%" alt="car-dealership"/>
+        </a>
+        <br />
+        <p>Building a fully responsive Classic Car Dealership website, using HTML, CSS and jQuery.</p>
+      <p align="center">
+          
+  <a href="https://github.com/caeserlondon/car-dealership" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Git Hub Code&color=FFD601&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://caesers-classic-cars.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td> <td width="50%" valign="top">
+      <h3 align="center">Color-Picker</h3>
+        <br />
+        <a target="_blank" href="https://caeser-color-picker.netlify.app">
+            <img src="/assets/color-picker.jpg" width="100%" alt="color-picker"/>
+        </a>
+        <br />
+        <p>Create a random color palette. Control the hue, brightness and saturation.Save the color you like to the clipboard, Or and save the colors palette to the library.Created using JavaScript, Chroma.js, HTML5, CSS3 and font awesome.</p>
+      <p align="center">
+          
+  <a href="https://github.com/caeserlondon/Color-Picker" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Git Hub Code&color=FFD601&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://caeser-color-picker.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/>
+  </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## [🔝 Back to Top](#Welcome-to-my-GitHub-profile)
