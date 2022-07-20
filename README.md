@@ -12,14 +12,19 @@ I graduated from the Makers Academy, an immersive full-stack software developmen
 #### Education
 
 ● Makers Academy / London UK / Software Development Bootcamp (September 2021 - Jan 2022)
+
 ● Croydon College / London UK / ESOL and Functional Skills English (2004 - 2005)
+
 ● University of Technology / Baghdad Iraq / Bachelor in Architectural Engineering (BSc) (September 1993 - June 1998)
 
 #### Work history
 
 ● Carfoosh Restaurant / Dubai UAE | Assistant Manager (2016 - 2020)
+
 ● Freelance / London UK | Property manager (2012-2016)
+
 ● Magnolia Enterprise Limited / London UK | Owner and Designer (2008- 2012)
+
 ● University of Technology / Baghdad Iraq | Teaching assistant (1999 - 2003)
 
 #### Languages
