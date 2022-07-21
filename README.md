@@ -160,7 +160,3 @@ Using stock photos and videos from  pexels.com</p>
 </table>
 
 ## [🔝 Back to Top](#Welcome-to-my-GitHub-profile)
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/-Github Page-FFD601?style=plastic&logo=github&logoColor=blue" />
