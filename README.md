@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile.
 
-![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-absolutely-yellow) ![Status](https://img.shields.io/badge/Status-Working_on_personal_projects-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-July_2022-blue)
+![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-absolutely-yellow) ![Status](https://img.shields.io/badge/Status-Working_on_personal_projects-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-August_2022-blue)
 
 <h1  style="color:#ffd700" >Caeser Ibrahim</h1>
 
