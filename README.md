@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile.
+## Welcome to my GitHub profile
 
 ![For hire](https://img.shields.io/badge/Available_for_hire-Yes-brightgreen) ![Contactable](https://img.shields.io/badge/Contactable-Absolutely_Anytime-yellow) ![Status](https://img.shields.io/badge/Status-Actively_searching_for_a_job-ff69b4) ![Last updated](https://img.shields.io/badge/Last_updated-August_2022-blue)
 
@@ -37,13 +37,12 @@ I graduated from the Makers Academy, an immersive full-stack software developmen
 
 #### Contact me
 
-**Mobiles**: **078-6886-3113** or **075-626-77052**
-
+**Mobiles**: **078 6886 3113**
 **Email**: caeserlondon@gmail.com
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaeserlondon&countColor=orange) <a href="https://www.linkedin.com/in/caeser-ibrahim"> <img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://caeser-ibrahim.vercel.app"> <img class= "center" src="https://img.shields.io/badge/Personal Portfolio-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a> <a href="https://caeser-ibrahim.netlify.app"> <img class= "center" src="https://img.shields.io/badge/On Line CV-ffd700?style=for-the-badge&logo=rss&logoColor=black" alt="Website"> </a> <a href="https://www.codewars.com/users/Caeser%20Ibrahim"> <img calss= "center" src="https://img.shields.io/badge/codewars-E4405F?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"></a> ![Profile badge](https://www.codewars.com/users/Caeser%20Ibrahim/badges/micro)
 
-### Technical Stack:
+### Technical Stack
 
 <div align="center">
 
@@ -75,7 +74,7 @@ I graduated from the Makers Academy, an immersive full-stack software developmen
 ![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
 
 <hr>
-<h1 align="center">My Projects</h1> 
+<h1 align="center">My Projects</h1>
  <h4>Please leave a star, and feel free to fork or clone.</h4>
 <table>
   <tr>
