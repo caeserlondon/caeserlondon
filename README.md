@@ -87,7 +87,7 @@ I graduated from the Makers Academy, an immersive full-stack software developmen
         <br />
         <p>Fully Responsive Recipe Website using Spoonacular API, With Multiple Themes, Made using React 18, React-router, Reacts hooks, React Icons and SASS.</p>
       <div align="center">
-      <a href="https://yum-yum-caeserlondon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/Yum-Yum" target="_blank"><img src="https://img.shields.io/badge/-Github Page-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      <a href="https://yum-yum-caeserlondon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/Yum-Yum" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
    <td width="50%" valign="top">
@@ -99,7 +99,7 @@ I graduated from the Makers Academy, an immersive full-stack software developmen
         <br />
         <p>For listings properties for rent and sale.Created using React V18.2.0 , react-router-dom V6.3.0 , react-leaflet for maps , Firebase(Backend-as-a-Service (Baas)) and react-toastify.</p>
       <div align="center">
-      <a href="https://london-home-finder.web.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/london-home-finder" target="_blank"><img src="https://img.shields.io/badge/-Github Page-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      <a href="https://london-home-finder.web.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/london-home-finder" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
   </tr>
@@ -115,7 +115,7 @@ I graduated from the Makers Academy, an immersive full-stack software developmen
         <p>Building a Vet clinic web site with Next V12.2 and React V18.2
 Using stock photos and videos from  pexels.com</p>
       <div align="center">
-      <a href="https://caeser-vet-clinic.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&ogo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/vet-clinic" target="_blank"><img src="https://img.shields.io/badge/-Github Page-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      <a href="https://caeser-vet-clinic.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&ogo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/vet-clinic" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
    <td width="50%" valign="top">
@@ -127,7 +127,7 @@ Using stock photos and videos from  pexels.com</p>
         <br />
         <p>Search and find Github users and view their profile, created with React V18.1 react-router V6.3, react-icons, TailWind and Daisy UI.</p>
       <div align="center">
-      <a href="https://github-user-finder-caeser.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/github-user-finder" target="_blank"><img src="https://img.shields.io/badge/-Github Page-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      <a href="https://github-user-finder-caeser.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/github-user-finder" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
   </tr>
@@ -141,7 +141,7 @@ Using stock photos and videos from  pexels.com</p>
         <br />
         <p>Building a fully responsive Classic Car Dealership website, using HTML, CSS and jQuery.</p>
       <div align="center">
-      <a href="https://caesers-classic-cars.netlify.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/car-dealership" target="_blank"><img src="https://img.shields.io/badge/-Github Page-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      <a href="https://caesers-classic-cars.netlify.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/car-dealership" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td> <td width="50%" valign="top">
       <h3 align="center">Color-Picker</h3>
@@ -152,7 +152,7 @@ Using stock photos and videos from  pexels.com</p>
         <br />
         <p>Create a random color palette. Control the hue, brightness and saturation.Save the color you like to the clipboard, Or and save the colors palette to the library.Created using JavaScript, Chroma.js, HTML5, CSS3 and font awesome.</p>
       <div align="center">
-      <a href="https://caeser-color-picker.netlify.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/Color-Picker" target="_blank"><img src="https://img.shields.io/badge/-Github Page-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      <a href="https://caeser-color-picker.netlify.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/Color-Picker" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
   </tr>
