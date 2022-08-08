@@ -8,8 +8,13 @@
 
 #### Personal Profile
 
-I am an ambitious and dedicated Full-Stack junior web developer and graphic designer with a bachelor’s degree in architectural engineering and interior design with a passion for designing, debugging and building dynamic interactive websites.
-I graduated from the Makers Academy, an immersive full-stack software development BootCamp, where I strengthened my coding knowledge. I’m friendly, confident and always working on improving my skills and learning new technologies.
+I am a Junior Full Stack Web Developer with a passion for developing apps and websites that
+focus on mobile-first design. I graduated from Makers Academy, an immersive 16-weeks full-stack
+software development BootCamp, where I strengthened my coding knowledge. I’m friendly,
+confident, always working on improving my skills and learning new technologies.
+I have a passion for designing, debugging and building dynamic interactive websites. Strengths in
+creativity, teamwork and building projects from ideation to execution. I speak four languages:
+English, Russian, Ukrainian and Arabic
 
 #### Education
 
@@ -21,13 +26,15 @@ I graduated from the Makers Academy, an immersive full-stack software developmen
 
 #### Work history
 
-● Carfoosh Restaurant / Dubai UAE | Assistant Manager (2016 - 2020)
+● QMQ Real Estate Inc / Front End Web Developer (2020 - 2021)
+
+● QMQ Real Estate Inc / Web Developer Intern/Volunteer (2019 - 2020)
+
+● Carfoosh Restaurant / Dubai UAE | Manager (2016 - 2019)
 
 ● Freelance / London UK | Property manager (2012-2016)
 
 ● Magnolia Enterprise Limited / London UK | Owner and Designer (2008- 2012)
-
-● University of Technology / Baghdad Iraq | Teaching assistant (1999 - 2003)
 
 #### Languages
 
