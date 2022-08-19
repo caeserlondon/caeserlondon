@@ -28,7 +28,7 @@ English, Russian, Ukrainian and Arabic
 
 ● QMQ Real Estate Inc / North Carolina USA | Front End Web Developer (2020 - 2021)
 
-● QMQ Real Estate Inc / North Carolina USA | Front End Web Developer Intern/Volunteer (2019 - 2020)
+● QMQ Real Estate Inc / North Carolina USA | Web Developer Intern/Volunteer (2019 - 2020)
 
 ● Carfoosh Restaurant / Dubai UAE | Manager (2016 - 2019)
 
