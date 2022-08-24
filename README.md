@@ -8,7 +8,7 @@
 
 #### Personal Profile
 
-I am a Junior Full Stack Web Developer with a passion for developing apps and websites that
+I am a British Junior Full Stack Web Developer with a passion for developing apps and websites that
 focus on mobile-first design. I graduated from Makers Academy, an immersive 16-weeks full-stack
 software development BootCamp, where I strengthened my coding knowledge. I’m friendly,
 confident, always working on improving my skills and learning new technologies.
@@ -26,9 +26,9 @@ English, Russian, Ukrainian and Arabic
 
 #### Work history
 
-● QMQ Real Estate Inc / North Carolina USA | Front End Web Developer (2020 - 2021)
+● QMQ Real Estate Inc / North Carolina USA | Front End Web Developer (May 2020 - July 2021)
 
-● QMQ Real Estate Inc / North Carolina USA | Web Developer Intern/Volunteer (2019 - 2020)
+● QMQ Real Estate Inc / North Carolina USA | Web Developer Intern/Volunteer ( July 2019 - May 2020)
 
 ● Carfoosh Restaurant / Dubai UAE | Manager (2016 - 2019)
 
