@@ -14,7 +14,7 @@ software development BootCamp, where I strengthened my coding knowledge. I’m f
 confident, always working on improving my skills and learning new technologies.
 I have a passion for designing, debugging and building dynamic interactive websites. Strengths in
 creativity, teamwork and building projects from ideation to execution. I speak four languages:
-English, Russian, Ukrainian and Arabic
+English, Russian and Arabic
 
 #### Education
 
