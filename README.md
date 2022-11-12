@@ -18,13 +18,13 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 
 ● Croydon College / London UK / ESOL and Functional Skills English (2004 - 2005)
 
-● University of Technology / Baghdad Iraq / Bachelor in Architectural Engineering (BSc) (September 1993 - June 1998)
+● University of Technology / Baghdad Iraq / Bachelor's degree in Architectural Engineering (BSc) (September 1993 - June 1998)
 
 #### Work history
 
 ● QMQ Real Estate Inc / London UK | Front End Web Developer (May 2020 - July 2021)
 
-● QMQ Real Estate Inc / London UK | Web Developer Intern/Volunteer ( July 2019 - May 2020)
+● QMQ Real Estate Inc / London UK | Junior Web Developer ( July 2019 - May 2020)
 
 ● Carfoosh Restaurant / Dubai UAE | Branch Manager (2016 - 2019)
 
