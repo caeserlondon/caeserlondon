@@ -26,7 +26,7 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 
 ● QMQ Real Estate Inc / London UK | Web Developer Intern/Volunteer ( July 2019 - May 2020)
 
-● Carfoosh Restaurant / Dubai UAE | Manager (2016 - 2019)
+● Carfoosh Restaurant / Dubai UAE | Branch Manager (2016 - 2019)
 
 ● Freelance / London UK | Property manager (2012-2016)
 
