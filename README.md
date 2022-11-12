@@ -22,15 +22,17 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 
 #### Work history
 
+● Contract Freelance / London UK | Front End Web Developer (July 2022 - Present)
+
 ● QMQ Real Estate Inc / London UK | Front End Web Developer (May 2020 - July 2021)
 
-● QMQ Real Estate Inc / London UK | Junior Web Developer ( July 2019 - May 2020)
+● QMQ Real Estate Inc / London UK | Junior Web Developer (July 2019 - May 2020)
 
 ● Carfoosh Restaurant / Dubai UAE | Branch Manager (2016 - 2019)
 
-● Freelance / London UK | Property manager (2012-2016)
+● Freelance / London UK | Property manager (2012 - 2016)
 
-● Magnolia Enterprise Limited / London UK | Owner and Designer (2008- 2012)
+● Magnolia Enterprise Limited / London UK | Owner and Designer (2008 - 2012)
 
 #### Languages
 
