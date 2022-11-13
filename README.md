@@ -14,9 +14,9 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 
 #### Education
 
-● Makers Academy / London UK / Software Development Bootcamp (September 2021 - Jan 2022)
+● Makers Academy / London UK / Software Development Bootcamp (September 2021 - January 2022)
 
-● Croydon College / London UK / ESOL and Functional Skills English (2004 - 2005)
+● Croydon College / London UK / ESOL and Functional Skills English (September 2004 - June 2005)
 
 ● University of Technology / Baghdad Iraq / Bachelor's degree in Architectural Engineering (BSc) (September 1993 - June 1998)
 
