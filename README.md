@@ -40,6 +40,11 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 
 **Nationality** / (Proudly British :uk: )
 
+#### Hobbies
+
+**● Acrylic and oil painting.**
+**● Creating natural aquariums.**
+
 #### Contact me
 
 **Mobile**: **078 6886 3113**
