@@ -43,6 +43,7 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 #### Hobbies
 
 **● Acrylic and oil painting.**
+
 **● Creating natural aquariums.**
 
 #### Contact me
