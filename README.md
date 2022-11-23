@@ -4,7 +4,7 @@
 
 <h1  style="color:#ffd700" >Caeser Ibrahim</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Junior+Full+Stack+Software+Developer;with+a+focus+on+design+and+always+learning.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mulish&size=25&color=00A0FF&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Software+Developer;with+a+focus+on+design+and+always+learning.)](https://git.io/typing-svg)
 
 #### Personal Profile
 
