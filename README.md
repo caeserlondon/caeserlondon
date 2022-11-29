@@ -22,7 +22,7 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 
 #### Work history
 
-● Contract Freelance / London UK | Front End Web Developer (July 2022 - Present)
+● Contract Freelance / London UK | Front End Web Developer (May 2022 - Present)
 
 ● QMQ Real Estate Inc / London UK | Front End Web Developer (May 2020 - July 2021)
 
@@ -87,7 +87,7 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 
 <hr>
 <h1 align="center">My Projects</h1>
- <h4>Please feel free to fork or clone.</h4>
+ <h4>Please leave a star and feel free to fork or clone.</h4>
 <table>
   <tr>
     <td width="50%" valign="top">
