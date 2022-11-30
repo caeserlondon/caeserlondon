@@ -87,7 +87,7 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 
 <hr>
 <h1 align="center">My Projects</h1>
- <h4>Please leave a star and feel free to fork or clone.</h4>
+ <h4>Please leave a star, and feel free to fork or clone.</h4>
 <table>
   <tr>
     <td width="50%" valign="top">
