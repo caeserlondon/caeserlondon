@@ -86,7 +86,7 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 ![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
 
 <hr>
-<h1 align="center">My Projects</h1>
+<h1 align="center">Some Of My Projects</h1>
  <h4>Please leave a star, and feel free to fork or to clone.</h4>
 <table>
   <tr>
