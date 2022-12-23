@@ -22,7 +22,7 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 
 #### Work history
 
-● Contract Freelance / London UK | Front End Web Developer (May 2022 - Present)
+● Contract Freelance / London UK | Front End Web Developer (May 2022 - December 2022)
 
 ● QMQ Real Estate Inc / London UK | Front End Web Developer (May 2020 - July 2021)
 
