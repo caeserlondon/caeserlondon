@@ -10,7 +10,7 @@
 
 I am a British full-stack web developer with a passion for developing apps and websites that focus on mobile-first design. I graduated from Makers Academy, an immersive 16-week full-stack software development Bootcamp, where I strengthened my coding knowledge. I’m friendly, confident, and always working on improving my skills and learning new technologies.
 
-I have a passion for designing, debugging, and building dynamic, interactive websites. strengths in creativity, teamwork, and building projects from ideation to execution. I speak three languages fluently: English, Russian, and Arabic.
+I have a passion for designing, debugging, and building dynamic, interactive websites. strengths in creativity, teamwork, and building projects from ideation to execution. I speak, read and write three languages fluently: English, Russian, and Arabic.
 
 #### Education
 
