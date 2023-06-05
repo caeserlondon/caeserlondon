@@ -8,9 +8,8 @@
 
 #### Personal Profile
 
-I am a British full-stack web developer with a passion for developing apps and websites that focus on mobile-first design. I graduated from Makers Academy, an immersive 16-week full-stack software development Bootcamp, where I strengthened my coding knowledge. I’m friendly, confident, and always working on improving my skills and learning new technologies.
-
-I have a passion for designing, debugging, and building dynamic, interactive websites. strengths in creativity, teamwork, and building projects from ideation to execution. I speak, read and write three languages fluently: English, Russian, and Arabic.
+Passionate and dedicated British Software Engineer that enjoys delivering business value using JavaScript, TypeScript, React and related technologies. Using professional software engineering best practices across multifunctional teams, including coding standards, design and reviews. A cross-technology mindset enables a productive approach to technical challenges, rather than being limited by a single-technology’s way of thinking.
+Key Technologies: JavaScript ES6+, TypeScript, Ruby, React, Node, Next, MERN, Express, Bootstrap, Material UI, jQuery, HTML, CSS, RESTful API, GraphQL,Databases: MongoDB, SQL, Firebase, Git, AWS,Testing: Jest, Rspec.Design Tools: Figma, Adobe Photoshop & InDesign Languages: English (Fluent), Russian (Fluent), Arabic (Fluent)
 
 #### Education
 
@@ -22,11 +21,11 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 
 #### Work history
 
-● Contract Freelance / London UK | Front End Web Developer (May 2022 - December 2022)
+● BBC / London UK | software engineer contractor (Jan 2023 - May 2023)
 
-● QMQ Real Estate Inc / London UK | Front End Web Developer (May 2020 - July 2021)
+● Freelance Contract / London UK | Front End Web Developer (Apr 2022 - December 2022)
 
-● QMQ Real Estate Inc / London UK | Junior Web Developer (July 2019 - May 2020)
+● QMQ Real Estate Inc / London UK | Junior Web Developer (July 2019 - July 2021)
 
 ● Carfoosh Restaurant / Dubai UAE | Branch Manager (2016 - 2019)
 
@@ -50,7 +49,7 @@ I have a passion for designing, debugging, and building dynamic, interactive web
 
 **Mobile**: **078 6886 3113**
 
-**Email**: caeserlondon@gmail.com
+**Email**: <caeserlondon@gmail.com>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaeserlondon&countColor=orange) <a href="https://www.linkedin.com/in/caeser-ibrahim"> <img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://caeser-ibrahim.vercel.app"> <img class= "center" src="https://img.shields.io/badge/Personal Portfolio-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a> <a href="https://caeser-ibrahim.netlify.app"> <img class= "center" src="https://img.shields.io/badge/On Line CV-ffd700?style=for-the-badge&logo=rss&logoColor=black" alt="Website"> </a> <a href="https://www.codewars.com/users/Caeser%20Ibrahim"> <img calss= "center" src="https://img.shields.io/badge/codewars-E4405F?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"></a> ![Profile badge](https://www.codewars.com/users/Caeser%20Ibrahim/badges/micro)
 
@@ -170,4 +169,4 @@ Using stock photos and videos from  pexels.com</p>
   </tr>
 </table>
 
-## [🔝 Back to Top](#Welcome-to-my-GitHub-profile)
+## [🔝 Back to Top](#welcome-to-my-github-profile)
