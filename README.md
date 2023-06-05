@@ -8,7 +8,7 @@
 
 #### Personal Profile
 
-Passionate and dedicated British Software Engineer that enjoys delivering business value using JavaScript, TypeScript, React and related technologies. Using professional software engineering best practices across multifunctional teams, including coding standards, design and reviews. A cross-technology mindset enables a productive approach to technical challenges, rather than being limited by a single-technology’s way of thinking.
+Passionate and dedicated British Software Engineer that enjoys delivering business value using JavaScript, TypeScript, React and related technologies. Using professional software engineering best practices across multifunctional teams, including coding standards, design and reviews. A cross-technology mindset enables a productive approach to technical challenges.
 
 Key Technologies: JavaScript ES6+, TypeScript, Ruby, React, Node, Next, MERN, Express, Bootstrap, Material UI, jQuery, HTML, CSS, RESTful API, GraphQL,Databases: MongoDB, SQL, Firebase, Git, AWS,Testing: Jest, Rspec.Design Tools: Figma, Adobe Photoshop & InDesign.
 
