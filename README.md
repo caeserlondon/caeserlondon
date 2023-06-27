@@ -37,6 +37,9 @@ Languages: English (Fluent), Russian (Fluent), Arabic (Fluent)
 
 ● Magnolia Enterprise Limited / London UK | Owner and Designer (2008 - 2012)
 
+● Teaching Assistant | University of Technology / Baghdad Iraq.
+2000 - 2003
+
 #### Languages
 
 **English** (full professional proficiency) , **Russian** (full professional proficiency) , **Arabic** (native proficiency)
