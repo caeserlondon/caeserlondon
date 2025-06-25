@@ -10,12 +10,18 @@
 
 #### Personal Profile
 
-Experienced and dedicated British Software Engineer with a strong passion for delivering exceptional business value through the utilisation of JavaScript, TypeScript, React, Next, and associated technologies. Demonstrated expertise in employing professional software engineering best practices within multifunctional teams, including adherence to coding standards and conducting comprehensive design reviews. Possesses a versatile, cross-technology mindset that enables the adoption of productive approaches to tackle complex technical challenges, unbounded by the limitations of a single technology.
+Adaptable and motivated Full Stack Developer with hands-on experience delivering scalable,
+user-focused web applications. Skilled across front-end and back-end technologies including
+JavaScript, React, Next.js, Node.js, and TypeScript. Proven success delivering high-quality digital
+services in Agile environments for organisations like the BBC and Croydon Council. Committed to
+clean code, accessibility (WCAG), and responsive design.
 
-Key Technologies: JavaScript ES6+, TypeScript, Ruby, React, Node, Next, MERN, Express, Bootstrap, Material UI, jQuery, HTML, CSS, RESTful API, GraphQL.
-Databases: MongoDB, SQL, PostgreSQL, Firebase.
-Version Control: Git, GitHub, GitLab. Cloud Services: AWS, S3, IAM. Testing: Jest, R.Spec. Design Tools: Figma, Adobe Photoshop & Adobe InDesign.
-Languages: English (Fluent), Russian (Fluent), Arabic (Fluent)
+Technical Skills
+Languages & Frameworks: JavaScript (ES6+), TypeScript, React, Next.js, Node.js, Express, HTML5,
+CSS3, SCSS, Ruby, Bootstrap, jQuery. Databases: MongoDB, PostgreSQL, Firebase, SQL APIs &
+Cloud: REST APIs, GraphQL, AWS (S3, IAM) Tools & Workflow: Git, GitHub, GitLab, Figma,
+Agile/Scrum, CI/CD, TDD, Jest, R.Spec. Design & Accessibility: Responsive Design, UX
+Collaboration, WCAG Compliance
 
 #### Education
 
@@ -26,6 +32,10 @@ Languages: English (Fluent), Russian (Fluent), Arabic (Fluent)
 ● University of Technology / Baghdad Iraq / Bachelor's degree in Architectural Engineering (BSc) (September 1993 - June 1998)
 
 #### Work history
+
+● Freelance Full Stack Developer, London, UK | Nov 2024 – Present
+
+● Full Stack Developer – Croydon Council, London, UK | Aug 2023 – Oct 2024
 
 ● BBC / London UK | software engineer contractor (Jan 2023 - May 2023)
 
