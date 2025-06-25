@@ -8,7 +8,7 @@
 
 <a href="https://caeser-ibrahim.vercel.app"> <img class= "center" src="https://img.shields.io/badge/Visit my Personal Portfolio Website-ffd700?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a>
 
-#### Personal Profile
+#### Professional Summary
 
 Adaptable and motivated Full Stack Developer with hands-on experience delivering scalable,
 user-focused web applications. Skilled across front-end and back-end technologies including
