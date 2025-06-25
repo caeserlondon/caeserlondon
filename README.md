@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile
 
-![Contactable](https://img.shields.io/badge/Contactable-Yes_Absolutely-blue) ![Last updated](https://img.shields.io/badge/Last_updated-July_2023-blue)
+![Contactable](https://img.shields.io/badge/Contactable-Yes_Absolutely-blue) ![Last updated](https://img.shields.io/badge/Last_updated-June_2025-blue)
 
 <h1  style="color:#ffd700" >Caeser Ibrahim</h1>
 
@@ -16,7 +16,8 @@ JavaScript, React, Next.js, Node.js, and TypeScript. Proven success delivering h
 services in Agile environments for organisations like the BBC and Croydon Council. Committed to
 clean code, accessibility (WCAG), and responsive design.
 
-Technical Skills
+#### Technical Skills
+
 Languages & Frameworks: JavaScript (ES6+), TypeScript, React, Next.js, Node.js, Express, HTML5,
 CSS3, SCSS, Ruby, Bootstrap, jQuery. Databases: MongoDB, PostgreSQL, Firebase, SQL APIs &
 Cloud: REST APIs, GraphQL, AWS (S3, IAM) Tools & Workflow: Git, GitHub, GitLab, Figma,
@@ -66,9 +67,7 @@ Collaboration, WCAG Compliance
 
 #### Contact me
 
-**Mobile**: **078 6886 3113**
-
-**Email**: <caeserlondon@gmail.com>
+**Email**: <caeseribrahim@gmail.com>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcaeserlondon&countColor=orange) <a href="https://www.linkedin.com/in/caeser-ibrahim"> <img class= "center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://caeser-ibrahim.vercel.app"> <img class= "center" src="https://img.shields.io/badge/Personal Portfolio-239120?style=for-the-badge&logo=rss&logoColor=white" alt="Website"> </a> <a href="https://caeser-ibrahim.netlify.app"> <img class= "center" src="https://img.shields.io/badge/On Line CV-ffd700?style=for-the-badge&logo=rss&logoColor=black" alt="Website"> </a> <a href="https://www.codewars.com/users/Caeser%20Ibrahim"> <img calss= "center" src="https://img.shields.io/badge/codewars-E4405F?style=for-the-badge&logo=codewars&logoColor=white" alt="codewars"></a> ![Profile badge](https://www.codewars.com/users/Caeser%20Ibrahim/badges/micro)
 
