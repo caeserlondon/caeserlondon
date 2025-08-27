@@ -34,15 +34,15 @@ Collaboration, WCAG Compliance
 
 #### Work history
 
-● Freelance Full Stack Developer, London, UK | Nov 2024 – Jun 2025
+● Full Stack Developer - Excel - London, UK | Nov 2024 – Jun 2025
 
 ● Full Stack Developer – Croydon Council, London, UK | Aug 2023 – Oct 2024
 
-● BBC / London UK | software engineer contractor (Jan 2023 - May 2023)
+● Full Stack Developer - BBC - London, UK | Jan 2023 - May 2023
 
-● Freelance Contract / London UK | Front End Web Developer (Apr 2022 - December 2022)
+● Front End Web Developer - Freelance Contract - London, UK | Apr 2022 - December 2022
 
-● QMQ Real Estate Inc / London UK | Junior Web Developer (July 2019 - July 2021)
+● Junior Web Developer - QMQ Real Estate Inc - London, UK | July 2019 - July 2021
 
 #### Languages
 
