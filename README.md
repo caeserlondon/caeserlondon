@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile
 
-![Contactable](https://img.shields.io/badge/Contactable-Yes_Absolutely-blue) ![Last updated](https://img.shields.io/badge/Last_updated-June_2025-blue)
+![Contactable](https://img.shields.io/badge/Contactable-Yes_Absolutely-blue) ![Last updated](https://img.shields.io/badge/Last_updated-August_2025-blue)
 
 <h1  style="color:#ffd700" >Caeser Ibrahim</h1>
 
@@ -30,7 +30,7 @@ Collaboration, WCAG Compliance
 
 ● Croydon College / London UK / ESOL and Functional Skills English (September 2004 - June 2005)
 
-● University of Technology / Baghdad Iraq / Bachelor's degree in Architectural Engineering (BSc) (September 1993 - June 1998)
+● University of Technology / Baghdad Iraq / Bachelor's degree in Architectural Engineering (BSc) (September 1998 - June 2002)
 
 #### Work history
 
@@ -43,15 +43,6 @@ Collaboration, WCAG Compliance
 ● Freelance Contract / London UK | Front End Web Developer (Apr 2022 - December 2022)
 
 ● QMQ Real Estate Inc / London UK | Junior Web Developer (July 2019 - July 2021)
-
-● Carfoosh Restaurant / Dubai UAE | Branch Manager (2016 - 2019)
-
-● Freelance / London UK | Property manager (2012 - 2016)
-
-● Magnolia Enterprise Limited / London UK | Owner and Designer (2008 - 2012)
-
-● Teaching Assistant | University of Technology / Baghdad Iraq.
-2000 - 2003
 
 #### Languages
 
