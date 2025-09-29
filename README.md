@@ -34,7 +34,7 @@ Collaboration, WCAG Compliance
 
 #### Work history
 
-● Full Stack Developer - Excel - London, UK | Nov 2024 – Jun 2025
+● Full Stack Developer - Croydon Collage - London, UK | Nov 2024 – Jun 2025
 
 ● Full Stack Developer – Croydon Council, London, UK | Aug 2023 – Oct 2024
 
