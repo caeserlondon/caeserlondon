@@ -107,7 +107,7 @@ Collaboration, WCAG Compliance
         <br />
         <p>Fully Responsive Recipe Website using Spoonacular API, With Multiple Themes, Made using React 18, React-router V6, Reacts hooks, React Icons and SASS.</p>
       <div align="center">
-      <a href="https://yum-yum-caeserlondon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=|&message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/Yum-Yum" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      <a href="https://yum-yum-caeserlondon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?message=Web Site&color=FFD601&style=plastic&logo=google-chrome&logo-color=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/Yum-Yum" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
    <td width="50%" valign="top">
