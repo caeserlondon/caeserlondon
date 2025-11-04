@@ -90,8 +90,13 @@ Collaboration, WCAG Compliance
 <div align="center">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=plastic&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=plastic&logo=Adobe%20InDesign&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Gimp-gray?style=plastic&logo=Gimp&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeserlondon&layout=compact&theme=dark)](https://github.com/caeserlondon/github-readme-stats) [![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&no-frame=true&no-bg=true&rank=-C,-?&theme=juicyfresh&column=4)](https://github.com/caeserlondon/github-profile-trophy)
-![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeserlondon&layout=compact&theme=dark)](https://github.com/caeserlondon/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&no-frame=true&no-bg=true&rank=-C,-?&theme=juicyfresh&column=4)](https://github.com/caeserlondon/github-profile-trophy)
+
+<!-- ![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark) -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
 
 <hr>
 <h1 align="center">Some Of My Projects</h1>
