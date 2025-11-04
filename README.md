@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile
 
-![Contactable](https://img.shields.io/badge/Contactable-Yes_Absolutely-blue) ![Last updated](https://img.shields.io/badge/Last_updated-October_2025-blue)
+![Contactable](https://img.shields.io/badge/Contactable-Yes_Absolutely-blue) ![Last updated](https://img.shields.io/badge/Last_updated-November_2025-blue)
 
 <h1  style="color:#ffd700" >Caeser Ibrahim</h1>
 
@@ -140,19 +140,18 @@ Collaboration, WCAG Compliance
     </td>
 
  <td width="50%" valign="top">
-      <h3 align="center">Vet Clinic</h3>
+      <h3 align="center">Dubai Homes</h3>
         <br />
-        <a target="_blank" href="https://caeser-vet-clinic.vercel.app">
-            <img src="/assets/vet-clinic.jpg" width="100%" alt="Vet-clinic"/>
+        <a target="_blank" href="https://dubai-homes.vercel.app/">
+            <img src="/assets/dubai-homes.png" width="100%" alt="dubai homes"/>
         </a>
         <br />
-        <p>Building a Vet clinic web site with Next V12.2 and React V18.2
-Using stock photos and videos from  pexels.com</p>
+        <p>Dubai Homes fetches real-time data from RapidAPI to display properties available for sale and for rent using Next.js, React 18, Chakra UI and Emotion.</p>
       <div align="center">
-      <a href="https://caeser-vet-clinic.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/vet-clinic" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      <a href="https://dubai-homes.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/dubai-homes" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
-  
+
   </tr>
 
   <tr>
@@ -170,7 +169,26 @@ Using stock photos and videos from  pexels.com</p>
       </div>
     </td>
 
- <td width="50%" valign="top">
+<td width="50%" valign="top">
+      <h3 align="center">Vet Clinic</h3>
+        <br />
+        <a target="_blank" href="https://caeser-vet-clinic.vercel.app">
+            <img src="/assets/vet-clinic.jpg" width="100%" alt="Vet-clinic"/>
+        </a>
+        <br />
+        <p>Building a Vet clinic web site with Next V12.2 and React V18.2
+Using stock photos and videos from  pexels.com</p>
+      <div align="center">
+      <a href="https://caeser-vet-clinic.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/vet-clinic" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      </div>
+    </td>
+
+  </tr>
+</table>
+
+## [🔝 Back to Top](#welcome-to-my-github-profile)
+
+ <!-- <td width="50%" valign="top">
       <h3 align="center">Car Dealership</h3>
         <br />
         <a target="_blank" href="https://caesers-classic-cars.netlify.app">
@@ -181,9 +199,4 @@ Using stock photos and videos from  pexels.com</p>
       <div align="center">
       <a href="https://caesers-classic-cars.netlify.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/car-dealership" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
-    </td>
-
-  </tr>
-</table>
-
-## [🔝 Back to Top](#welcome-to-my-github-profile)
+    </td> -->
