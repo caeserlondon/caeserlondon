@@ -18,7 +18,11 @@ clean code, accessibility (WCAG), and responsive design.
 
 #### Technical Skills
 
-Languages & Frameworks: JavaScript (ES6+), TypeScript, React, Next.js, Node.js, Express, HTML5, CSS3, SCSS, Ruby, Bootstrap, jQuery. Databases: MongoDB, mongose, PostgreSQL, Firebase, SQL APIs & Cloud: REST APIs, GraphQL, AWS (S3, IAM) Tools & Workflow: Git, GitHub, GitLab, Figma, Agile/Scrum, CI/CD, TDD, Jest, R.Spec. Design & Accessibility: Responsive Design, UX Collaboration, WCAG Compliance
+Languages & Frameworks: JavaScript (ES6+), TypeScript, React, Next.js, Node.js, Express, HTML5,
+CSS3, SCSS, Ruby, Bootstrap, jQuery. Databases: MongoDB, Mongoose, PostgreSQL, Firebase, SQL APIs &
+Cloud: REST APIs, GraphQL, AWS (S3, IAM) Tools & Workflow: Git, GitHub, GitLab, Figma,
+Agile/Scrum, CI/CD, TDD, Jest, R.Spec. Design & Accessibility: Responsive Design, UX
+Collaboration, WCAG Compliance
 
 #### Education
 
