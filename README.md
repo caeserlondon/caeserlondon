@@ -14,7 +14,7 @@ Results-driven British Full Stack Developer with 6 years of experience deliverin
 accessible, and secure web applications for major organisations including the BBC and Croydon
 Council. Skilled in React, Node.js, JavaScript, TypeScript, PostgreSQL, Next.js, AWS, and
 CI/CD pipelines with proven success in performance optimisation, automated testing,
-accessibility (WCAG 2.1 AA), GDPR compliance, and documentation. Adept at solving complex
+accessibility, WCAG, GDPR compliance, and documentation. Adept at solving complex
 technical challenges, reducing bugs with strong test coverage, and collaborating across Agile
 teams to deliver secure, user-focused digital products.
 
