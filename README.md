@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile
 
-![Contactable](https://img.shields.io/badge/Contactable-Yes_Absolutely-blue) ![Last updated](https://img.shields.io/badge/Last_updated-November_2025-blue)
+![Contactable](https://img.shields.io/badge/Contactable-Yes_Absolutely-blue) ![Last updated](https://img.shields.io/badge/Last_updated-December_2025-blue)
 
 <h1  style="color:#ffd700" >Caeser Ibrahim</h1>
 
