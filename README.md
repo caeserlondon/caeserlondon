@@ -10,24 +10,19 @@
 
 #### Professional Summary
 
-Results-driven British Full Stack Developer with 6 years of experience delivering scalable,
-accessible, and secure web applications for major organisations including the BBC and Croydon
-Council. Skilled in React, Node.js, JavaScript, TypeScript, PostgreSQL, Next.js, AWS, and
-CI/CD pipelines with proven success in performance optimisation, automated testing,
-accessibility, WCAG, GDPR compliance, and documentation. Adept at solving complex
-technical challenges, reducing bugs with strong test coverage, and collaborating across Agile
-teams to deliver secure, user-focused digital products.
+Front-end-focused Software Developer with over 6 years of experience building accessible,
+high-traffic digital services for organisations including the BBC and Croydon Council.
+Specialised in React, Next.js, JavaScript, and TypeScript, with hands-on backend experience
+using Node.js, Python, and Django. Proven track record improving performance (~20% faster
+loads), accessibility (WCAG 2.1 AA), and reliability (90% test coverage) in regulated UK
+public-sector environments.
 
 #### Technical Skills
 
-Languages/Frameworks: JavaScript, TypeScript, React, Next.js, Node.js, Redux, Express,
-HTML, CSS, SCSS, SASS, Bootstrap, Tailwind, Styled Components, Material UI, WordPress.
-Databases: PostgreSQL, MongoDB, Supabase, Firebase, SQL, MySQL.
-APIs/Tools: REST APIs, GraphQL, React Query, Docker, Kubernetes, Kafka, AWS, GCP.
-Testing/CI/CD: Jest, Cypress, Playwright, React Testing Library, TDD, CI/CD (GitHub Actions,
-Jenkins), Sentry. Collaboration: Agile, Scrum, Jira, Trello, Git, GitHub, Pair Programming,
-Documentation with Confluence, JS Doc and Swagger. SEO, WCAG Accessibility, GDPR,
-SOLID principles, Microservices.
+Front-end: React, Next.js, JavaScript, TypeScript, HTML, CSS, SCSS, Tailwind
+Back-end: Node, Express, Python, Django, REST API, PostgreSQL, SQL, MongoDB, Fast API
+Testing & Quality: Jest, Cypress, Playwright, TDD, WCAG 2.1 AA, Cross-browser compatibility
+Tooling: Git, GitHub Actions, CI/CD, Docker, AWS, Responsive design.
 
 #### Education
 
@@ -39,7 +34,8 @@ SOLID principles, Microservices.
 
 #### Work history
 
-● Full Stack Developer - Croydon Collage - London, UK | Nov 2024 – Jun 2025
+● Independent Software Developer Upskilling, Self-Directed Learning | Nov 2024 –
+Dec 2025
 
 ● Full Stack Developer – Croydon Council, London, UK | Aug 2023 – Oct 2024
 
@@ -72,12 +68,16 @@ SOLID principles, Microservices.
 ### Technical Stack
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/-TypeScripy-000000?style=flat&logo=typescript&logoColor=03AABF" />
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=03AABF" />
 <img src="https://img.shields.io/badge/-jest-000000?style=flat&logo=Jest&logoColor=C55F93">
 <img src="https://img.shields.io/badge/-Node.js-000000?&style=flat&logo=node.js&logoColor=8AC149"/>
-<img src="https://img.shields.io/badge/-Next.JS-000000?style=flat&logo=Next.JS&logoColor=white" />
+<img src="https://img.shields.io/badge/-Next.JS-000000?style=flat&logo=Next.JS&
+logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=03AABF" />
+<img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=03AABF" />
+
 <img src="https://img.shields.io/badge/-NPM-000000?&style=flat&logo=npm&logoColor=CB3837"/>
 <img src="https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=4AAA3C" />
 <img src="https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=E6892E" />
@@ -97,13 +97,11 @@ SOLID principles, Microservices.
 <div align="center">
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=plastic&logo=Adobe%20Photoshop&logoColor=black" /> <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6" /> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=plastic&logo=adobe%20illustrator&logoColor=white" /> <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=plastic&logo=Adobe%20InDesign&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Gimp-gray?style=plastic&logo=Gimp&logoColor=white" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caeserlondon&layout=compact&theme=dark)](https://github.com/caeserlondon/github-readme-stats)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&no-frame=true&no-bg=true&rank=-C,-?&theme=juicyfresh&column=4)](https://github.com/caeserlondon/github-profile-trophy) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=caeserlondon&no-frame=true&no-bg=true&rank=-C,-?&theme=juicyfresh&column=4)](https://github.com/caeserlondon/github-profile-trophy)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon) -->
 
-<!-- ![All Stats](https://github-readme-stats.vercel.app/api?username=caeserlondon&show_icons=true&include_all_commits=true&count_private=true&theme=dark) -->
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=caeserlondon&theme=dark)](https://github.com/caeserlondon)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=caeserlondon&layout=compact&theme=dark&cache_seconds=86400) -->
 
 <hr>
 <h1 align="center">Some Of My Projects</h1>
