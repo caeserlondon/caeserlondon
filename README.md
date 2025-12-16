@@ -19,10 +19,13 @@ public-sector environments.
 
 #### Technical Skills
 
-Front-end: React, Next.js, JavaScript, TypeScript, HTML, CSS, SCSS, Tailwind
-Back-end: Node, Express, Python, Django, REST API, PostgreSQL, SQL, MongoDB, Fast API
-Testing & Quality: Jest, Cypress, Playwright, TDD, WCAG 2.1 AA, Cross-browser compatibility
-Tooling: Git, GitHub Actions, CI/CD, Docker, AWS, Responsive design.
+**Front-end:** React, Next.js, JavaScript, TypeScript, HTML, CSS, SCSS, Tailwind
+
+**Back-end:** Node, Express, Python, Django, REST API, PostgreSQL, SQL, MongoDB, Fast API
+
+**Testing & Quality:** Jest, Cypress, Playwright, TDD, WCAG 2.1 AA, Cross-browser compatibility
+
+**Tooling:** Git, GitHub Actions, CI/CD, Docker, AWS, Responsive design.
 
 #### Education
 
@@ -34,10 +37,10 @@ Tooling: Git, GitHub Actions, CI/CD, Docker, AWS, Responsive design.
 
 #### Work history
 
-● Independent Software Developer Upskilling, Self-Directed Learning | Nov 2024 –
+● Independent Software Developer (Upskilling, Self-Directed Learning) | Nov 2024 –
 Dec 2025
 
-● Full Stack Developer – Croydon Council, London, UK | Aug 2023 – Oct 2024
+● Full Stack Developer - Croydon Council, London, UK | Aug 2023 - Oct 2024
 
 ● Full Stack Developer - BBC - London, UK | Jan 2023 - May 2023
 
