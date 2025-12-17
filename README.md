@@ -37,8 +37,7 @@ public-sector environments.
 
 #### Work history
 
-● Independent Software Developer (Upskilling, Self-Directed Learning) | Nov 2024 –
-Dec 2025
+● Full Stack Developer - Data Annotation | Nov 2024 – Dec 2025
 
 ● Full Stack Developer - Croydon Council, London, UK | Aug 2023 - Oct 2024
 
