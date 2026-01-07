@@ -19,19 +19,19 @@ public-sector environments.
 
 ##### Technical Skills
 
-###### JavaScript, TypeScript, React, Next.js, Node.js, Redux, Express, Python, Django,
+JavaScript, TypeScript, React, Next.js, Node.js, Redux, Express, Python, Django, Flask,
 
-###### Flask, PHP, Ruby, HTML, CSS, SCSS, SASS, Bootstrap, Tailwind, Styled Components,
+PHP, Ruby, HTML, CSS, SCSS, SASS, Bootstrap, Tailwind, Styled Components, WordPress,
 
-###### WordPress, jQuery, MongoDB, Dynamo DB, Firebase, GraphQL, PostgreSQL, SQL,
+jQuery, MongoDB, Dynamo DB, Firebase, GraphQL, PostgreSQL, SQL, MySQL, REST APIs,
 
-###### MySQL, REST APIs, Tan stack/React Query, GraphQL, AWS, Lambda, Docker, Kubernetes,
+Tan stack/React Query, GraphQL, AWS, Lambda, Docker, Kubernetes, GitHub Actions,
 
-###### GitHub Actions, Jira, Trello, Agile, Scrum, CI/CD, TDD, React Testing Library,
+Jira, Trello, Agile, Scrum, CI/CD, TDD, React Testing Library, Jest, Cypress, Playwright,
 
-###### Jest, Cypress, Playwright, Vi-test, Webpack, Figma, Responsive design, UX
+Vi-test, Webpack, Figma, Responsive design, UX Collaboration, WCAG, Compliance, SEO,
 
-###### Collaboration, WCAG, Compliance, SEO, GDPR Awareness, SOLID.
+GDPR Awareness, SOLID design principles.
 
 #### Education
 
