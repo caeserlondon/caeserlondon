@@ -17,15 +17,21 @@ using Node.js, Python, and Django. Proven track record improving performance (~2
 loads), accessibility (WCAG 2.1 AA), and reliability (90% test coverage) in regulated UK
 public-sector environments.
 
-#### Technical Skills
+##### Technical Skills
 
-**Front-end:** React, Next.js, JavaScript, TypeScript, HTML, CSS, SCSS, Tailwind
+###### JavaScript, TypeScript, React, Next.js, Node.js, Redux, Express, Python, Django,
 
-**Back-end:** Node, Express, Python, Django, REST API, PostgreSQL, SQL, MongoDB, Fast API
+###### Flask, PHP, Ruby, HTML, CSS, SCSS, SASS, Bootstrap, Tailwind, Styled Components,
 
-**Testing & Quality:** Jest, Cypress, Playwright, TDD, WCAG 2.1 AA, Cross-browser compatibility
+###### WordPress, jQuery, MongoDB, Dynamo DB, Firebase, GraphQL, PostgreSQL, SQL,
 
-**Tooling:** Git, GitHub Actions, CI/CD, Docker, AWS, Responsive design.
+###### MySQL, REST APIs, Tan stack/React Query, GraphQL, AWS, Lambda, Docker, Kubernetes,
+
+###### GitHub Actions, Jira, Trello, Agile, Scrum, CI/CD, TDD, React Testing Library,
+
+###### Jest, Cypress, Playwright, Vi-test, Webpack, Figma, Responsive design, UX
+
+###### Collaboration, WCAG, Compliance, SEO, GDPR Awareness, SOLID.
 
 #### Education
 
