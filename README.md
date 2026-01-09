@@ -166,7 +166,7 @@ logoColor=white" />
         <br />
         <p>Dubai Homes fetches real-time data from RapidAPI to display properties available for sale and for rent using Next.js, React 18, Chakra UI and Emotion.</p>
       <div align="center">
-      <a href="https://dubai-homes.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/dubai-homes" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+         <a href="https://github.com/caeserlondon/dubai-homes" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
 
@@ -218,3 +218,6 @@ Using stock photos and videos from  pexels.com</p>
       <a href="https://caesers-classic-cars.netlify.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/car-dealership" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td> -->
+
+<!--
+    <a href="https://dubai-homes.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; -->
