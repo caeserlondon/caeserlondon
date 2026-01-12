@@ -135,7 +135,7 @@ logoColor=white" />
             <img src="/assets/london-home-finder.jpg" width="100%" alt="london-home-finder"/>
         </a>
         <br />
-        <p>For listings properties for rent and sale. Created using React V18.2.0 , react-router-dom V6.3.0 , react-leaflet for maps , Firebase(Backend-as-a-Service (Baas)) and react-toastify.</p>
+        <p>For listings properties for rent and sale. Created using React V18, react-router-dom V6 , react-leaflet for maps , Firebase (Backend-as-a-Service (Baas)) and react-toastify.</p>
       <div align="center">
       <a href="https://london-home-finder.web.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/london-home-finder" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
@@ -151,7 +151,7 @@ logoColor=white" />
             <img src="/assets/caeser-resort.png" width="100%" alt="color-picker"/>
         </a>
         <br />
-        <p>A modern, responsive hotel management application built with React, TanStack Query, PostgreSQL, Supabase, and Recharts.</p>
+        <p>A modern, responsive resort management application built with React, TanStack Query, PostgreSQL, Supabase, and Recharts.</p>
       <div align="center">
       <a href="https://caeser-resort.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-resort" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
