@@ -164,7 +164,7 @@ logoColor=white" />
             <img src="/assets/dubai-homes.png" width="100%" alt="dubai homes"/>
         </a>
         <br />
-        <p>Currently Under maintenance / Dubai Homes fetches real-time data from RapidAPI to display properties available for sale and for rent using Next.js, React 18, Chakra UI and Emotion.</p>
+        <p>Currently Under maintenance 🚧 ⚠️ Dubai Homes fetches real-time data from RapidAPI to display properties available for sale and for rent using Next.js, React 18, Chakra UI and Emotion.</p>
       <div align="center">
          <a href="https://github.com/caeserlondon/dubai-homes" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
