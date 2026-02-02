@@ -10,28 +10,23 @@
 
 #### Professional Summary
 
-Front-end-focused Software Developer with over 6 years of experience building accessible,
-high-traffic digital services for organisations including the BBC and Croydon Council.
-Specialised in React, Next.js, JavaScript, and TypeScript, with hands-on backend experience
-using Node.js, Python, and Django. Proven track record improving performance (~20% faster
-loads), accessibility (WCAG 2.1 AA), and reliability (90% test coverage) in regulated UK
-public-sector environments.
+Frontend-focused Software Engineer with 6+ years of experience building scalable, accessible,
+and high-traffic web applications for organisations including BBC and Croydon Council. Strong
+expertise in React, Next, TypeScript, with solid experience across Node.js and Python. Proven
+ability to improve performance, accessibility, WCAG, and reliability through testing and CI/CD
+practices. Comfortable collaborating closely with designers, product managers, and engineers in
+agile teams to deliver high-quality digital products.
 
 ##### Technical Skills
 
-JavaScript, TypeScript, React, Next.js, Node.js, Redux, Express, Python, Django, Flask,
-
-PHP, Ruby, HTML, CSS, SCSS, SASS, Bootstrap, Tailwind, Styled Components, WordPress,
-
-jQuery, MongoDB, Dynamo DB, Firebase, GraphQL, PostgreSQL, SQL, MySQL, REST APIs,
-
-Tan stack/React Query, GraphQL, AWS, Lambda, Docker, Kubernetes, GitHub Actions,
-
-Jira, Trello, Agile, Scrum, CI/CD, TDD, React Testing Library, Jest, Cypress, Playwright,
-
-Vi-test, Webpack, Figma, Responsive design, UX Collaboration, WCAG, Compliance, SEO,
-
-GDPR Awareness, SOLID design principles.
+**Frontend":** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind, Styled Components,
+SCSS, TanStack Query, Redux
+**Backend:** Node.js, Express, Python, Django, Flask, REST APIs, GraphQL
+**Databases:** PostgreSQL, MySQL, Firebase, Supabase, MongoDB, DynamoDB
+**DevOps & Tools:** GitHub Actions, CI/CD, Jira, Trello, Webpack, GCP, AWS, Lambda,
+Serverless, Docker
+**Testing:** Jest, React Testing Library, Cypress, Playwright, Vitest
+**Practices:** Agile/Scrum, TDD, WCAG 2.1 AA, Responsive Design, SEO, GDPR, Figma
 
 #### Education
 
@@ -43,7 +38,7 @@ GDPR Awareness, SOLID design principles.
 
 #### Work history
 
-● Full Stack Developer - Data Annotation | Nov 2024 – Dec 2025
+● Independent Software Engineer - Freelance contractor | Jan 2025 – Jan 2026
 
 ● Full Stack Developer - Croydon Council, London, UK | Aug 2023 - Oct 2024
 
