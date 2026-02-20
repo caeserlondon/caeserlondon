@@ -110,19 +110,21 @@ logoColor=white" />
 <h1 align="center">Some Of My Projects</h1>
  <h4>Please leave a star, and feel free to fork or to clone.</h4>
 <table>
+
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Yum Yum</h3>
+      <h3 align="center">Caeser Store</h3>
         <br />
-        <a target="_blank" href="https://yum-yum-caeserlondon.vercel.app">
-            <img src="assets/yum-yum.jpg" width="100%" alt="yum-yum"/>
+        <a target="_blank" href="https://caeser-store.vercel.app">
+            <img src="assets/store-screen.png" width="100%" alt="caeser store"/>
         </a>
         <br />
-        <p>Fully Responsive Recipe Website using Spoonacular API, With Multiple Themes, Made using React 18, React-router V6, Reacts hooks, React Icons and SASS.</p>
+        <p>A scalable, full-stack e-commerce solution engineered with Next.js, TypeScript, React Server Components, and MongoDB. Implements ISR (Incremental Static Regeneration) for optimal performance, multi-currency support, role-based access control, and secure payment processing via PayPal and Stripe. internationalization (i18n) support English, Arabic, and French</p>
       <div align="center">
-      <a href="https://yum-yum-caeserlondon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/Yum-Yum" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      <a href="https://caeser-store.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-clothing-store" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
+
    <td width="50%" valign="top">
       <h3 align="center">London Home Finder</h3>
         <br />
@@ -130,7 +132,7 @@ logoColor=white" />
             <img src="/assets/london-home-finder.jpg" width="100%" alt="london-home-finder"/>
         </a>
         <br />
-        <p>For listings properties for rent and sale. Created using React V18, react-router-dom V6 , react-leaflet for maps , Firebase (Backend-as-a-Service (Baas)) and react-toastify.</p>
+        <p>A full-stack property marketplace engineered with React 18, React Router v6, and Firebase (Authentication, Firestore, Storage). Implements React Leaflet for interactive geospatial property visualization, client-side routing, real-time data synchronization, and toast notifications for enhanced user feedback. Designed with scalability and performance in mind.</p>
       <div align="center">
       <a href="https://london-home-finder.web.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/london-home-finder" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
@@ -170,15 +172,15 @@ logoColor=white" />
   <tr>
 
  <td width="50%" valign="top">
-      <h3 align="center">GitHub Finder</h3>
+      <h3 align="center">Yum Yum</h3>
         <br />
-        <a target="_blank" href="https://github-user-finder-caeser.vercel.app">
-            <img src="/assets/github-finder.jpg" width="100%" alt="Github-finder"/>
+        <a target="_blank" href="https://yum-yum-caeserlondon.vercel.app">
+            <img src="assets/yum-yum.jpg" width="100%" alt="yum-yum"/>
         </a>
         <br />
-        <p>Search and find Github users and view their profile, created with React V18.1 react-router V6.3, react-icons, TailWind and Daisy UI.</p>
+        <p>Fully Responsive Recipe Website using Spoonacular API, With Multiple Themes, Made using React 18, React-router V6, Reacts hooks, React Icons and SASS.</p>
       <div align="center">
-      <a href="https://github-user-finder-caeser.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/github-user-finder" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      <a href="https://yum-yum-caeserlondon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/Yum-Yum" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
 
@@ -201,7 +203,9 @@ Using stock photos and videos from  pexels.com</p>
 
 ## [🔝 Back to Top](#welcome-to-my-github-profile)
 
- <!-- <td width="50%" valign="top">
+<!--
+
+ <td width="50%" valign="top">
       <h3 align="center">Car Dealership</h3>
         <br />
         <a target="_blank" href="https://caesers-classic-cars.netlify.app">
@@ -212,7 +216,19 @@ Using stock photos and videos from  pexels.com</p>
       <div align="center">
       <a href="https://caesers-classic-cars.netlify.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/car-dealership" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
-    </td> -->
+    </td>
 
-<!--
-    <a href="https://dubai-homes.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; -->
+     <td width="50%" valign="top">
+      <h3 align="center">GitHub Finder</h3>
+        <br />
+        <a target="_blank" href="https://github-user-finder-caeser.vercel.app">
+            <img src="/assets/github-finder.jpg" width="100%" alt="Github-finder"/>
+        </a>
+        <br />
+        <p>Search and find Github users and view their profile, created with React V18.1 react-router V6.3, react-icons, TailWind and Daisy UI.</p>
+      <div align="center">
+      <a href="https://github-user-finder-caeser.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/github-user-finder" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      </div>
+    </td>
+
+    <a href="https://dubai-homes.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp;  -->
