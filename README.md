@@ -119,7 +119,7 @@ logoColor=white" />
             <img src="assets/store-screen.png" width="100%" alt="caeser store"/>
         </a>
         <br />
-        <p>A scalable, full-stack e-commerce solution engineered with Next.js, TypeScript, React Server Components, and MongoDB. Implements ISR (Incremental Static Regeneration) for optimal performance, multi-currency support, role-based access control, and secure payment processing via PayPal and Stripe. internationalization (i18n) support English, Arabic, and French</p>
+        <p>A scalable, full-stack E-commerce solution engineered with Next.js, TypeScript, React Server Components, and MongoDB. Implements ISR (Incremental Static Regeneration) for optimal performance, multi-currency support, role-based access control, and secure payment processing via PayPal and Stripe. internationalization (i18n) support English, Arabic, and French</p>
       <div align="center">
       <a href="https://caeser-store.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-clothing-store" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
