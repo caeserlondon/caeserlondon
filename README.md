@@ -148,7 +148,7 @@ logoColor=white" />
             <img src="/assets/caeser-resort.png" width="100%" alt="color-picker"/>
         </a>
         <br />
-        <p>A modern, responsive resort management application built with React, TanStack Query, PostgreSQL, Supabase, and Recharts.</p>
+        <p>A modern, responsive resort management application built with React, TanStack Query, PostgreSQL, Supabase, and Recharts. Helps resort staff manage bookings, guests, cabins, and daily operations.</p>
       <div align="center">
       <a href="https://caeser-resort.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-resort" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
