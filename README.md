@@ -132,7 +132,7 @@ logoColor=white" />
             <img src="/assets/london-home-finder.jpg" width="100%" alt="london-home-finder"/>
         </a>
         <br />
-        <p>A full-stack property marketplace engineered with React 18, React Router v6, and Firebase (Authentication, Firestore, Storage). Implements React Leaflet for interactive geospatial property visualization, client-side routing, real-time data synchronization, and toast notifications for enhanced user feedback. Designed with scalability and performance in mind.</p>
+        <p>A full-stack property marketplace engineered with React 18, React Router v6, and Firebase (Authentication, Firestore, Storage). Implements React Leaflet for interactive geospatial property visualization, client-side routing, real-time data synchronization, and toast notifications for enhanced user feedback. Designed with scalability and performance in mind</p>
       <div align="center">
       <a href="https://london-home-finder.web.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/london-home-finder" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
@@ -148,7 +148,7 @@ logoColor=white" />
             <img src="/assets/caeser-resort.png" width="100%" alt="color-picker"/>
         </a>
         <br />
-        <p>A modern, responsive resort management application built with React, TanStack Query, PostgreSQL, Supabase, and Recharts. Helps resort staff manage bookings, guests, cabins, and daily operations.</p>
+        <p>A modern, responsive resort management application built with React, TanStack Query, PostgreSQL, Supabase, and Recharts. Helps resort staff manage bookings, guests, cabins, and daily operations</p>
       <div align="center">
       <a href="https://caeser-resort.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-resort" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
@@ -178,7 +178,7 @@ logoColor=white" />
             <img src="assets/yum-yum.jpg" width="100%" alt="yum-yum"/>
         </a>
         <br />
-        <p>Fully Responsive Recipe Website using Spoonacular API, With Multiple Themes, Made using React 18, React-router V6, Reacts hooks, React Icons and SASS.</p>
+        <p>Fully Responsive Recipe Website using Spoonacular API, With Multiple Themes, Made using React 18, React-router V6, Reacts hooks, React Icons and SASS</p>
       <div align="center">
       <a href="https://yum-yum-caeserlondon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/Yum-Yum" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
