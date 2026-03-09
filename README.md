@@ -155,15 +155,15 @@ logoColor=white" />
     </td>
 
  <td width="50%" valign="top">
-      <h3 align="center">Dubai Homes</h3>
+      <h3 align="center">Caeser Real Estate</h3>
         <br />
-        <a target="_blank" href="https://dubai-homes.vercel.app/">
-            <img src="/assets/dubai-homes.png" width="100%" alt="dubai homes"/>
+        <a target="_blank" href="https://caeser-real-estate.vercel.app/">
+            <img src="/assets/caeser-real-estate.png" width="100%" alt="Caeser real estate"/>
         </a>
         <br />
-        <p>🚧 Currently Under maintenance 🚧 Dubai Homes fetches real-time data from RapidAPI to display properties available for sale and for rent using Next.js, React 18, Chakra UI and Emotion.  ⚠️ The Bayut API was removed from the RapidAPI Platform</p>
-      <div align="center">
-         <a href="https://github.com/caeserlondon/dubai-homes" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+        <p>A modern luxury real estate experience built with Next.js 15, React 19, TypeScript, and Tailwind CSS 4, Motion for subtle premium animations.</p>
+    <div align="center">
+      <a href="https://caeser-real-estate.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-real-estate" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
 
@@ -185,16 +185,15 @@ logoColor=white" />
     </td>
 
 <td width="50%" valign="top">
-      <h3 align="center">Vet Clinic</h3>
+      <h3 align="center">The Human Canon</h3>
         <br />
-        <a target="_blank" href="https://caeser-vet-clinic.vercel.app">
-            <img src="/assets/vet-clinic.jpg" width="100%" alt="Vet-clinic"/>
+        <a target="_blank" href="https://the-human-canon.vercel.app">
+            <img src="/assets/the-human-landing.png" width="100%" alt="the human canon"/>
         </a>
         <br />
-        <p>Building a Vet clinic web site with Next V12.2 and React V18.2
-Using stock photos and videos from  pexels.com</p>
+        <p>The Human Canon is a content-first digital library for timeless books, authors, and ideas. It is built with a modern React and Next.js stack, backed by Supabase, and designed for durability: strong typing, accessible UI, SEO-aware architecture, a maintainable codebase, and comprehensive end-to-end testing with Playwright.</p>
       <div align="center">
-      <a href="https://caeser-vet-clinic.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/vet-clinic" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      <a href="https://the-human-canon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/the-human-canon" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
 
