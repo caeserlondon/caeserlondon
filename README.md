@@ -142,19 +142,6 @@ logoColor=white" />
   <tr>
 
  <td width="50%" valign="top">
-      <h3 align="center">Caeser resort</h3>
-        <br />
-        <a target="_blank" href="https://caeser-resort.vercel.app/">
-            <img src="/assets/caeser-resort.png" width="100%" alt="color-picker"/>
-        </a>
-        <br />
-        <p>A modern, responsive resort management application built with React, TanStack Query, PostgreSQL, Supabase, and Recharts. Helps resort staff manage bookings, guests, cabins, and daily operations</p>
-      <div align="center">
-      <a href="https://caeser-resort.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-resort" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
-      </div>
-    </td>
-
- <td width="50%" valign="top">
       <h3 align="center">Caeser Real Estate</h3>
         <br />
         <a target="_blank" href="https://caeser-real-estate.vercel.app/">
@@ -164,6 +151,19 @@ logoColor=white" />
         <p>A modern luxury real estate experience built with Next.js 15, React 19, TypeScript, and Tailwind CSS 4, Motion for subtle premium animations.</p>
     <div align="center">
       <a href="https://caeser-real-estate.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-real-estate" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      </div>
+    </td>
+
+ <td width="50%" valign="top">
+      <h3 align="center">Caeser Chocolate</h3>
+        <br />
+        <a target="_blank" href="https://caeser-chocolate.vercel.app/">
+            <img src="/assets/caeser-chocolate.png" width="100%" alt="caeser chocolate"/>
+        </a>
+        <br />
+        <p>A modern chocolate brand landing page built with Next.js 16, React 19, TypeScript, and Tailwind CSS 4. This project also achieved a full Lighthouse score, with 100% green results</p>
+      <div align="center">
+      <a href="https://caeser-chocolate.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-chocolate" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
 
@@ -198,6 +198,36 @@ logoColor=white" />
     </td>
 
   </tr>
+
+  <tr>
+
+ <td width="50%" valign="top">
+      <h3 align="center">Caeser resort</h3>
+        <br />
+        <a target="_blank" href="https://caeser-resort.vercel.app/">
+            <img src="/assets/caeser-resort.png" width="100%" alt="caeser resort"/>
+        </a>
+        <br />
+        <p>A modern, responsive resort management application built with React, TanStack Query, PostgreSQL, Supabase, and Recharts. Helps resort staff manage bookings, guests, cabins, and daily operations</p>
+      <div align="center">
+      <a href="https://caeser-resort.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-resort" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      </div>
+    </td>
+
+  <td width="50%" valign="top">
+      <h3 align="center">GitHub Finder</h3>
+        <br />
+        <a target="_blank" href="https://github-user-finder-caeser.vercel.app">
+            <img src="/assets/github-finder.jpg" width="100%" alt="Github-finder"/>
+        </a>
+        <br />
+        <p>Search and find Github users and view their profile, created with React V18.1 react-router V6.3, react-icons, TailWind and Daisy UI.</p>
+      <div align="center">
+      <a href="https://github-user-finder-caeser.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/github-user-finder" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      </div>
+
+  </tr>
+
 </table>
 
 ## [🔝 Back to Top](#welcome-to-my-github-profile)
