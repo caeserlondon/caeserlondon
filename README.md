@@ -20,10 +20,15 @@ agile teams to deliver high-quality digital products.
 ##### Technical Skills
 
 **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, SCSS, Tailwind, Styled Components, TanStack Query, Redux
+
 **Backend:** Node.js, Express, Python, Django, REST APIs, GraphQL
+
 **Databases:** PostgreSQL, MySQL, Firebase, Supabase, MongoDB, DynamoDB
+
 **Testing:** Jest, React Testing Library, Cypress, Playwright, Vitest, PyTest
+
 **Practices:** Agile/Scrum, TDD, WCAG 2.1 AA, Responsive Design, SEO, GDPR, Figma
+
 **DevOps & Tools:** GitHub Actions, CI/CD, Jira, Trello, Webpack, GCP, AWS, Lambda, Serverless, Docker
 
 #### Education
