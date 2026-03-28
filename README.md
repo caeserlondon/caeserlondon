@@ -111,7 +111,7 @@ logoColor=white" />
 
 <hr>
 <h1 align="center">Some Of My Projects</h1>
- <h4>Please leave a star, and feel free to fork or to clone.</h4>
+
 <table>
 
   <tr>
@@ -140,6 +140,36 @@ logoColor=white" />
       <a href="https://london-home-finder.web.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/london-home-finder" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
+  </tr>
+
+  <tr>
+
+ <td width="50%" valign="top">
+      <h3 align="center">Caeser Jam</h3>
+        <br />
+        <a target="_blank" href="https://caeser-jam.vercel.app">
+            <img src="assets/jam-homepage.png" width="100%" alt="caeser jam"/>
+        </a>
+        <br />
+        <p>A premium portfolio-style jam brand website designed and built to showcase luxury visual design, refined frontend craftsmanship, and polished user experience.</p>
+      <div align="center">
+      <a href="https://caeser-jam.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-jam" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      </div>
+    </td>
+
+<td width="50%" valign="top">
+      <h3 align="center">The Human Canon</h3>
+        <br />
+        <a target="_blank" href="https://the-human-canon.vercel.app">
+            <img src="/assets/the-human-landing.png" width="100%" alt="the human canon"/>
+        </a>
+        <br />
+        <p>The Human Canon is a content-first digital library for timeless books, authors, and ideas. It is built with a modern React and Next.js stack, backed by Supabase, and designed for durability: strong typing, accessible UI, SEO-aware architecture, a maintainable codebase, and comprehensive end-to-end testing with Playwright.</p>
+      <div align="center">
+      <a href="https://the-human-canon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/the-human-canon" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      </div>
+    </td>
+
   </tr>
   
   <tr>
@@ -184,36 +214,6 @@ logoColor=white" />
         <p>Fully Responsive Recipe Website using Spoonacular API, With Multiple Themes, Made using React 18, React-router V6, Reacts hooks, React Icons and SASS</p>
       <div align="center">
       <a href="https://yum-yum-caeserlondon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/Yum-Yum" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
-      </div>
-    </td>
-
-<td width="50%" valign="top">
-      <h3 align="center">The Human Canon</h3>
-        <br />
-        <a target="_blank" href="https://the-human-canon.vercel.app">
-            <img src="/assets/the-human-landing.png" width="100%" alt="the human canon"/>
-        </a>
-        <br />
-        <p>The Human Canon is a content-first digital library for timeless books, authors, and ideas. It is built with a modern React and Next.js stack, backed by Supabase, and designed for durability: strong typing, accessible UI, SEO-aware architecture, a maintainable codebase, and comprehensive end-to-end testing with Playwright.</p>
-      <div align="center">
-      <a href="https://the-human-canon.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/the-human-canon" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
-      </div>
-    </td>
-
-  </tr>
-
-  <tr>
-
- <td width="50%" valign="top">
-      <h3 align="center">Caeser resort</h3>
-        <br />
-        <a target="_blank" href="https://caeser-resort.vercel.app/">
-            <img src="/assets/caeser-resort.png" width="100%" alt="caeser resort"/>
-        </a>
-        <br />
-        <p>A modern, responsive resort management application built with React, TanStack Query, PostgreSQL, Supabase, and Recharts. Helps resort staff manage bookings, guests, cabins, and daily operations</p>
-      <div align="center">
-      <a href="https://caeser-resort.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-resort" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
       </div>
     </td>
 
@@ -264,3 +264,17 @@ logoColor=white" />
     </td>
 
     <a href="https://dubai-homes.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp;  -->
+
+<!--
+ <td width="50%" valign="top">
+      <h3 align="center">Caeser resort</h3>
+        <br />
+        <a target="_blank" href="https://caeser-resort.vercel.app/">
+            <img src="/assets/caeser-resort.png" width="100%" alt="caeser resort"/>
+        </a>
+        <br />
+        <p>A modern, responsive resort management application built with React, TanStack Query, PostgreSQL, Supabase, and Recharts. Helps resort staff manage bookings, guests, cabins, and daily operations</p>
+      <div align="center">
+      <a href="https://caeser-resort.vercel.app/" target="_blank"><img src="https://img.shields.io/static/v1?label=WebSite&message=Visit&color=FFD601&style=plastic&logo=google-chrome&logoColor=white"/></a> &nbsp; <a href="https://github.com/caeserlondon/caeser-resort" target="_blank"><img src="https://img.shields.io/badge/-Github Repo-FFD601?style=plastic&logo=github&logoColor=blue" /></a>
+      </div>
+    </td> -->
